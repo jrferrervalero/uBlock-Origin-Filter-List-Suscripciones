@@ -1,0 +1,15 @@
+###################################
+# Lista de Filtros para Ublock    #
+# By Juan Ramon Ferrer            #
+# Tambien conocido como ElArtista #
+#                                 #
+# 06/03/2024                      #
+###################################
+
+! 2024-03-06 https://www.xatakaciencia.com
+www.xatakaciencia.com##.didomi-popup-notice-info-type.didomi-popup-notice.didomi-popup__dialog.didomi-popup-container
+
+! 2024-03-06 https://www.meneame.net
+www.meneame.net##.cl-consent-visible.cl-consent-popup--main.cl-consent-popup
+www.meneame.net##.cl-consent-bottom.cl-consent
+
